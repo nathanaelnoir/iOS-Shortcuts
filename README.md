@@ -1,36 +1,18 @@
 # iOS Shortcuts
 
-My iOS (V13) Shortcuts
+My iOS (13) Shortcuts
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+### Stereo ON
 
-What things you need to "install" the software and how to install them
-
-```
-h
-```
-
-
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-
-
-
+This is the *[Stereo ON](https://www.icloud.com/shortcuts/3c5d07f53eb041538fead8bf35ed36c1)* - Shortcut
 
 ## Authors
 
-* **Nathanael Noir** - 
+* **Nathanael Noir**  
 
 ## License
 
