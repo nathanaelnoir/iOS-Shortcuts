@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Stereo ON
 
-This is the *[Stereo ON](https://www.icloud.com/shortcuts/3c5d07f53eb041538fead8bf35ed36c1)* - Shortcut
+Here you can get **[Stereo ON](https://www.icloud.com/shortcuts/3c5d07f53eb041538fead8bf35ed36c1)**
 
 ## Authors
 
